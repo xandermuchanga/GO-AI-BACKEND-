@@ -1,0 +1,6 @@
+{
+  "name": "AI Customer Support API (Go)",
+  "description": "A production-ready Golang REST API for an AI-powered customer support system, integrated with Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
